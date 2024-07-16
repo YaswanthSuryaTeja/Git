@@ -1,0 +1,5 @@
+Public Void Mian{
+  Public static voidmian (String [] args){
+   System.out.println(" My self i am Yaswanth");
+   }
+}
